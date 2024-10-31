@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+  background-color: #F9DA88 !important;
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+  width: 100%;
+  margin: 40px;
+}
+
+.container {
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.381);
+  max-width: 600px;
+  width: 100%;
+  margin: 0;
+  padding: 0 !important;
+}
+
+.CustomForm {
+  background: #F1FAB7;
+  padding: 20px !important;
+  margin: 30px;
+  
+}
+
+.heading {
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: fantasy !important;
+  font-size: 28px;
+  color: #AC2432;
+}
+
+#root {
+  width: 100%;
+}
+
+.card {
+  border: none !important;
+  border-radius: 30px;
+  /* margin: 20px; */
+  padding:20px;
+  background-color: darkred !important;
+  color: white;
+  margin-bottom: 10px;
+}
